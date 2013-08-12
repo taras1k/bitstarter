@@ -12,14 +12,9 @@
     "ejs": "~0.8.4",
     "express": "~3.3.4",
     "async": "~0.2.9",
-    "commander": "~2.0.0",
-    "restler": "~2.0.1",
-    "cheerio": "~0.12.1",
-    "proto": "~0.1.0",
-    "connect": "~2.8.5"
   },
   "engines": {
-    "node": "0.10.12",
+    "node": "0.10.15",
     "npm": "1.2.30"
   },
   "devDependencies": {},
