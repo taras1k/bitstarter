@@ -1,4 +1,4 @@
-Installation
+Installation 
 ============
 The following instructions will set up a more complex bitstarter than the
 one you've done to date. Now you will be recording orders to a database.
