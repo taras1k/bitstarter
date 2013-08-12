@@ -1,5 +1,5 @@
 {
-  "name": "bitstarter-ssjs-orders",
+  "name": "bitstarter",
   "version": "0.0.1",
   "description": "Simple server-side JS order processing",
   "main": "web.js",
@@ -16,5 +16,15 @@
   "engines": {
     "node": "0.10.12",
     "npm": "1.2.30"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/taras1k/bitstarter.git"
+  },
+  "author": "",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/taras1k/bitstarter/issues"
   }
 }
